@@ -1,1 +1,34 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  height: 430px;
+  width: 300px;
+  background-color: white;
+  border-radius: 25px;
+  display: grid;
+}
+.centerPart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.downPart {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  padding-right: 25px;
+}
+i {
+  font-size: 100px;
+}
+.icon.red {
+  color: red;
+}
+h1 {
+  font-size: 150px;
+  margin: 0px;
+  transform: scaleY(1.2);
+}

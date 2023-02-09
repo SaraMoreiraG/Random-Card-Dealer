@@ -1,5 +1,10 @@
 # Hello World with Vanilla JS
 
+<i class="heart">♥</i>
+<i class="diamon">♦</i>
+<i class="spade">♠</i>
+<i class="club">♣</i>
+
 Start coding in 30 seconds by opening this template in gitpod:
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
